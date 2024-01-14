@@ -8,7 +8,7 @@
 
 mod villager;
 
-#[skyline::main(name = "smashline_main")]
+#[skyline::main(name = "ultimate_cbp")]
 pub fn main() {
     villager::install();
 }
