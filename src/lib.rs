@@ -6,13 +6,9 @@
     unused_macros
 )]
 
-mod mario;
-mod falco;
-mod custom;
+mod villager;
 
-#[skyline::main(name = "smashline_test")]
+#[skyline::main(name = "smashline_main")]
 pub fn main() {
-    mario::install();
-    falco::install();
-    custom::install();
+    villager::install();
 }
