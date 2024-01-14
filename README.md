@@ -21,6 +21,10 @@ cd <project>
 cargo install cargo-skyline
 ```
 
+* [Visual Studio Code](https://code.visualstudio.com)
+
+Install extension named "rust-analyzer", click "Switch to pre-release version", click the down arrow next to "Uninstall", click "Install Another Version", search for version 0.4.1082, and select it.
+
 ## Creating and Building a Plugin
 
 To compile your plugin use the following command in the root of the project (beside the `Cargo.toml` file):
