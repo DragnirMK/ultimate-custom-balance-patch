@@ -27,6 +27,18 @@ Install extension named "rust-analyzer", click "Switch to pre-release version", 
 
 ## Creating and Building a Plugin
 
+First, make sure skyline and arcropolis are installed on you switch, follow this [tutorial](https://gamebanana.com/tuts/12827#H2_6)
+
+Then, you need to install these following extra plugins before building and installing your own plugin :
+* [libnro_hook.nro](https://github.com/ultimate-research/nro-hook-plugin/releases)
+* [libacmd_hook.nro](https://github.com/ultimate-research/acmd_hook/releases)
+* [libsmashline_hook.nro](https://github.com/blu-dev/smashline_hook/releases)
+
+Put those plugin files on your SD card at :
+```
+sd:/atmosphere/contents/01006A800016E000/romfs/skyline/plugins
+```
+
 To compile your plugin use the following command in the root of the project (beside the `Cargo.toml` file):
 
 ### Installing via FTP connection
