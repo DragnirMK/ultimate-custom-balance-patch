@@ -89,7 +89,7 @@ cargo skyline run
 
 * [ArcExplorer](https://github.com/ScanMountGoat/ArcExplorer/releases) - This application is a file browser and extractor for Smash Ultimate
 * [libarc_network.nro](https://github.com/jam1garner/arc-network/releases/tag/master) - This plugin is required for connecting ArcExplorer to your Switch. Install it like any other skyline plugin
-* [prcEditor](https://github.com/BenHall-7/paracobNET/releases/tag/v3.0) - This application is used to edit parameter files (.prc)
+* [prcEditor](https://github.com/benhall-7/paracobNET/releases/download/1.9/Release.zip) - This application is used to edit parameter files (.prc)
 * [ParamLabels.csv](https://github.com/ultimate-research/param-labels/blob/master/ParamLabels.csv) - Put this file in the same directory as prcEditor
 
 #### Extract files
@@ -117,3 +117,7 @@ If you want to edit `motion_list.bin`, you can directly use the dumped motion li
 Download `ParamLabels.csv` and put it inside prcEditor folder
 
 Run prcEditor
+
+Open your .prc file, press the "Enter" key to view the content of a struct / array and modify values
+
+Save button to export
