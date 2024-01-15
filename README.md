@@ -1,4 +1,8 @@
-## Ressources
+## Changelog
+
+[Doc](https://docs.google.com/document/d/1Whdhejekuf2kosSxJcyl7eSTQ6tFqyiRZuqPIGk3i-4/edit?usp=sharing)
+
+## Development Ressources
 
 ### Plugin
 
@@ -14,7 +18,7 @@
 
 [Motion List Convertor](https://github.com/ultimate-research/motion_lib/releases)
 
-## Setup
+## Development Setup
 
 ### Plugin 
 
