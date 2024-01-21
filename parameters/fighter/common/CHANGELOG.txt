@@ -1,0 +1,12 @@
+21/01/2024
+Falcon :
+    - Initial Dash Speed : 1.98 --> 2.09
+
+Kirby :
+    - Air Speed : 0.84 --> 0.9
+
+Incineroar :
+    - Air Speed : 0.88 -> 0.9
+
+--------
+
