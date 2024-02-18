@@ -3,5 +3,7 @@ Side B :
     - Walking Speed : 0.4 --> 0.7
     - Jumping Speed : 0.5 --> 0.7
 
+Down B:
+    - Enable Cancel Frame : 18 --> 14
 --------
 

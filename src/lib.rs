@@ -7,6 +7,8 @@
 )]
 
 mod bowserjr;
+mod chrom;
+mod falcon;
 mod ike;
 mod isabelle;
 mod kazuya;
@@ -19,6 +21,8 @@ mod villager;
 #[skyline::main(name = "ultimate_cbp")]
 pub fn main() {
     bowserjr::install();
+    chrom::install();
+    falcon::install();
     ike::install();
     isabelle::install();
     kazuya::install();
