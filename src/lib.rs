@@ -13,6 +13,7 @@ mod kazuya;
 mod kirby;
 mod marth;
 mod pichu;
+mod plant;
 mod villager;
 
 #[skyline::main(name = "ultimate_cbp")]
@@ -24,5 +25,6 @@ pub fn main() {
     kirby::install();
     marth::install();
     pichu::install();
+    plant::install();
     villager::install();
 }

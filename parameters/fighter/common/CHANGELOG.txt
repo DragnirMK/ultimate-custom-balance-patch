@@ -9,4 +9,6 @@ Incineroar :
     - Air Speed : 0.88 -> 0.9
 
 --------
-
+17/02/2024
+Piranha Plant :
+    - Fast Falling Speed : 2.73 --> 3.12
