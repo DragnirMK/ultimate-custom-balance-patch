@@ -1,0 +1,5 @@
+24/02/2024
+
+Increased initial flying speed : 0.5 → 1.2
+
+-----------------

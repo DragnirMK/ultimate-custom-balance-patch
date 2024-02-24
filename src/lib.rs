@@ -8,8 +8,10 @@
 
 mod bowserjr;
 mod chrom;
+mod duckhunt;
 mod falcon;
 mod ike;
+mod inkling;
 mod isabelle;
 mod kazuya;
 mod kirby;
@@ -22,8 +24,10 @@ mod villager;
 pub fn main() {
     bowserjr::install();
     chrom::install();
+    duckhunt::install();
     falcon::install();
     ike::install();
+    inkling::install();
     isabelle::install();
     kazuya::install();
     kirby::install();
